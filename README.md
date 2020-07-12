@@ -2,7 +2,7 @@
 
 Design profile details UI in the flutter.
 
-![](images/girl.jpg)
+![](images/demo.png)
 
 ## Getting Started
 [Click here for complete tutorial](https://warmodroid.xyz)
